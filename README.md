@@ -33,8 +33,8 @@ Furthermore, with this solution I tried using BEM.
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/fylo-landing-page-xeXT61B_t)
+- Live Site URL: (https://jwh-frontendmentor.github.io/fylo-landing-page/)
 
 ## My process
 
