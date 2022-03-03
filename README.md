@@ -28,8 +28,8 @@ Furthermore, with this solution I tried using BEM.
 
 ### Screenshot
 
-![](screenshots/fylo 1440px.png)
-![](screenshots/fylo 375px.png)
+![](./screenshots/fylo 1440px.png)
+![](./screenshots/fylo 375px.png)
 
 
 ### Links
