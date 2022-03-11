@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Raleway&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --black: #000;
+    --dark-blue: #07043b;
+    --blue: #2f65f8;
+    --white: #fff;
+    --raleway: "Raleway", sans-serif;
+    --light-purple: #f8f8fe;
+    --light-grey: #c2c2c2;
+    --purple: #575988;
+    --green: #3da08f;
+    --light-purple-grey: #dfe4f0;
+    --red: #EF4877;
+    --light-green: #71DFCC;
+}
+
+body {
+    font-size: 0.75rem;
+    font-family: "Open Sans", sans-serif;
+    color: var(--dark-blue);
+}
+
+@media only screen and (max-width:320px) {
+    .header {
+        width: 20.438rem;
+        height: 1.5rem;
+        margin: 1.5rem;
+    }
+    .navbar__logo {
+        width: 5rem;
+        height: 1.5rem;
+    }
+    .navbar__list--header {
+        display: inline-flex;
+    }
+    .navbar__item--header {
+        margin-left: 1.5rem;
+        list-style: none;
+    }
+    .navbar__link--header {
+        text-decoration: none;
+        color: var(--dark-blue);
+    }
+    .hero__headline {
+        font-weight: 700;
+    }
+}
